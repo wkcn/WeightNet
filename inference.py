@@ -16,7 +16,7 @@ import megengine.functional as F
 import megengine.jit as jit
 import numpy as np
 
-import model as M
+import shufflenet_v2 as M
 
 
 def main():
